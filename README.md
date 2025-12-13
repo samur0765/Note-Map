@@ -18,7 +18,6 @@ Bu proje, Leaflet.js kullanılarak geliştirilmiş bir harita üzerinde not bır
 
 🎨 Basit ve kullanıcı dostu arayüz
 
-🛠️ Kullanılan Teknolojiler
 
 # 📸 Ekran Görüntüleri
 
